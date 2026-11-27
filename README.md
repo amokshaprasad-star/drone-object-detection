@@ -1,25 +1,18 @@
 # Deep Learning for Real-Time Object Detection in Drone Applications
 
-![Dashboard preview](images/dashboard.png)
+**Personal project** · Python · YOLO · SSD · Faster R-CNN
 
-## Overview
-A real-time object detection approach for drones, addressing resource constraints and small-object detection.
+## Problem statement
+Drones need to detect objects in real time, but onboard computing is limited and objects often look small from the air. This project develops a real-time detection approach that addresses those constraints.
 
-**Tools:** Python, YOLO, SSD, Faster R-CNN
+## Project steps
+- Developed a real-time object detection approach for drones, using YOLO, SSD and Faster R-CNN.
+- Split the data into training and testing sets.
+- Built a lighter model to suit limited computing resources.
+- Tested the approach on drone video or live footage.
 
-## Dataset
-[Add dataset name and source]
-
-## What I did
-- Developed a real-time object detection approach using YOLO, SSD and Faster R-CNN.
-- [Add steps from your report]
-
-## Key insights
-- [Add results from your report]
-
-## Files
-- [Add notebooks, code or report]
-- images/dashboard.png  (screenshot)
+## Business impact
+Potential impact: targets practical drone use where computing resources are limited and small objects are hard to detect.
 
 ## Author
-Adigouni Moksha Prasad Goud · [LinkedIn](https://www.linkedin.com/in/adigouni-moksha-prasad-goud-957b97292) · amokshaprasad@gmail.com
+Adigouni Moksha Prasad Goud · [Portfolio](https://amokshaprasad-star.github.io) · [LinkedIn](https://www.linkedin.com/in/adigouni-moksha-prasad-goud-957b97292) · amokshaprasad@gmail.com
